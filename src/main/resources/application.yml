@@ -26,7 +26,7 @@ springdoc:
   swagger-ui:
     path: /swagger/index.html
     persist-authorization: true
-  show-login-endpoint: true
+  show-login-endpoint: false
 
 
 
